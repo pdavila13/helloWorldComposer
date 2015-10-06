@@ -2,8 +2,6 @@
 
 namespace Com\Iesebre\Dam2\paolodavila\helloWorldComposer;
 
-require __DIR__ . "/../vendor/autoload.php";
-
 /**
  * Created by PhpStorm.
  * User: pdavila

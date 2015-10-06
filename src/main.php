@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . "/../src/Hello.php";
+require_once __DIR__ . "/../vendor/autoload.php";
 
 use Com\Iesebre\Dam2\paolodavila\helloWorldComposer\Hello;
 
