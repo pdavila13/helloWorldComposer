@@ -1,0 +1,10 @@
+{
+    "name": "pdavila/hello-world-composer",
+    "authors": [
+        {
+            "name": "Paolo Davila",
+            "email": "paolodavila@iesebre.com"
+        }
+    ],
+    "require": {}
+}
