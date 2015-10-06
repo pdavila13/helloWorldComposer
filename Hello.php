@@ -8,7 +8,7 @@
 
 class Hello {
 
-    public function say_hello()
+    public function sayHello()
     {
         echo "Hello world! \n";
     }
