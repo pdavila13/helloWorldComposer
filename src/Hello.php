@@ -1,6 +1,8 @@
 <?php
 
-require __DIR__ . "/vendor/autoload.php";
+namespace Com\Iesebre\Dam2\paolodavila\helloWorldComposer;
+
+require __DIR__ . "/../vendor/autoload.php";
 
 /**
  * Created by PhpStorm.
@@ -11,7 +13,6 @@ require __DIR__ . "/vendor/autoload.php";
 
 class Hello {
 
-
     public $faker;
 
     /**
@@ -19,7 +20,7 @@ class Hello {
      */
     function __construct()
     {
-        $this->faker = Faker\Factory::create();
+        $this->faker = \Faker\Factory::create();
     }
 
     public function sayHello()
